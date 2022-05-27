@@ -12,7 +12,7 @@
 		<parameter name="chromeDriverPort" value="11000" />
 		<classes>
 			<class name="com.qa.tests.LoginTests"/>
-			<class name="com.qa.tests.ProductTests"></class>
+			<!--<class name="com.qa.tests.ProductTests"></class>-->
 		</classes>
 	</test>
 </suite> <!-- Suite -->
